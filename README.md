@@ -53,21 +53,9 @@ Le projet respecte les standards modernes de Chrome (Manifest V3).
 
 ---
 
-## 🧑‍💻 Structure de l'Équipe NIRD
-
-Ce projet a été réalisé dans le cadre de la Nuit de l'Info 2024 par :
-
-*   **🥇 `ka7loun`** : Développement Full-Stack & Architecture.
-
----
-
 ## III. Installation
 
 1.  **Cloner le dépôt :** `git clone https://github.com/ka7loun/navigateur-NIRD.git`
 2.  **Accéder à `chrome://extensions`** dans votre navigateur (Chrome/Brave/Edge).
 3.  Activer le **Mode développeur** (interrupteur en haut à droite).
 4.  Cliquer sur **Charger l'extension non empaquetée** et sélectionner le dossier du projet.
-
----
-
-*Développé avec ❤️ pour la Nuit de l'Info - Défi NIRD.*
