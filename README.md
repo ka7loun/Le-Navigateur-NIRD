@@ -12,14 +12,13 @@ Notre objectif est d'offrir aux utilisateurs scolaires et citoyens un outil "cou
 
 ## I. Fonctionnalités, Utilisation & Impact
 
-L'extension intègre **7 fonctionnalités majeures**. Voici comment les tester et pourquoi elles sont essentielles.
+L'extension intègre **6 fonctionnalités majeures**. Voici comment les tester et pourquoi elles sont essentielles.
 
 ### ♻️ PILIER : DURABILITÉ (Énergie & Matériel)
 *Lutter contre l'obsolescence programmée et réduire l'empreinte carbone.*
 
 | Fonctionnalité | Comment l'utiliser / Exemple | Impact NIRD |
 | :--- | :--- | :--- |
-| **Nettoyeur d'Énergie** | **Utilisation :** Activez "Mode Sobriété" dans le popup.<br>**Exemple :** Allez sur *Giphy.com* ou un site de news. Les vidéos/GIFs sont floutés et mis en pause. Cliquez sur "▶️ Activer" pour les voir. | Réduit la bande passante et la charge CPU. Prolonge la batterie et la vie des vieux PC. |
 | **Hibernateur d'Onglets** | **Utilisation :** Activez "Hibernateur d'Onglets".<br>**Exemple :** Ouvrez 5 onglets lourds (YouTube, Maps...) et n'y touchez plus pendant 10 min. Ils seront "déchargés" (grisés) pour libérer la mémoire. | Libère la mémoire RAM instantanément. Indispensable pour les navigateurs gourmands. |
 | **Mode Sobriété (Fonts)** | **Utilisation :** Activez "Mode Sobriété".<br>**Exemple :** Sur un blog utilisant des polices "Google Fonts" lourdes, le texte passera instantanément en police système (Arial/Segoe), plus légère. | Évite le téléchargement inutile de fichiers de polices distants. |
 
